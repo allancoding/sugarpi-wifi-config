@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "css-base": "^1.0.0",
-    "element-ui": "^2.15.10",
-    "less": "^4.1.3",
-    "less-loader": "^11.1.0",
-    "vue": "^3.2.41"
+    "element-ui": "^2.12.0",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "vue": "^2.5.2"
   },
   "engines": {
     "node": ">= 6.0.0",
