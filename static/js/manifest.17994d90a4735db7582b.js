@@ -37,7 +37,7 @@
         return t.d(n, "a", n), n
     }, t.o = function(r, n) {
         return Object.prototype.hasOwnProperty.call(r, n)
-    }, t.p = "/sugar-wifi-conf/", t.oe = function(r) {
+    }, t.p = "/", t.oe = function(r) {
         throw console.error(r), r
     }
 }([]);
